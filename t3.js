@@ -1,0 +1,1 @@
+const r = alert("nice to see you");
